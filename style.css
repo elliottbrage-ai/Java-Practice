@@ -1,0 +1,74 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background-color: #f1f5f9;
+}
+
+h1 {
+    color: #2563eb;
+}
+
+.buttonEndre{
+    padding: 12px 24px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.buttonTilbakestill{
+    padding: 12px 24px;
+    background-color: #64748b;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.buttonEndreFargeRød{
+    padding: 12px 24px;
+    background-color: #ef4444;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.buttonEndreFargeBlå{
+    padding: 12px 24px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.buttonEndreFargeGrønn{
+    padding: 12px 24px;
+    background-color: #10b981;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.buttonTilbakestillFarge{
+    padding: 12px 24px;
+    background-color: #64748b;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.buttonDarkMode{
+    padding: 12px 24px;
+    background-color: #1f2937;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
